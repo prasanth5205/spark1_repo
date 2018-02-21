@@ -1,1 +1,2 @@
 this is sample jira file in github integration
+This is updated jira file
